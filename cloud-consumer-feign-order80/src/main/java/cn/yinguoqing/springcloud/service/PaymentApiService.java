@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
 /**
- * @author yinguoqing
+ * @author Yin Guoqing
  * @date 2022/9/18
  */
 @Component

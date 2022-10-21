@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 import javax.annotation.Resource;
 
 /**
- * @author yinguoqing
+ * @author Yin Guoqing
  * @date 2022/9/15
  */
 
