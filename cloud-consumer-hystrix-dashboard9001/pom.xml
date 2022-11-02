@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>clooud-consumer-hystrix-dashboard9001</artifactId>
+    <artifactId>cloud-consumer-hystrix-dashboard9001</artifactId>
     <packaging>maven-plugin</packaging>
 
-    <name>clooud-consumer-hystrix-dashboard9001 Maven Plugin</name>
+    <name>cloud-consumer-hystrix-dashboard9001</name>
 
 
     <properties>
